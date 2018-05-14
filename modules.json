@@ -1,0 +1,10 @@
+[
+	"sigmoidAnalyticsAdapter",
+	"adomikAnalyticsAdapter",
+	"consentManagement",	
+	"openxBidAdapter",
+	"rubiconBidAdapter",
+	"appnexusBidAdapter",
+	"pubmaticBidAdapter",
+	"pulsepointBidAdapter"
+]
